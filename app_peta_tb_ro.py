@@ -258,7 +258,7 @@ if fdf.empty:
 # ============================================================
 
 st.title("Peta Sebaran TB RO Fasilitas Kesehatan")
-st.caption("Sebaran lokasi fasilitas & intensitas indikator TB berdasarkan angka asli (tanpa pengelasan)")
+st.caption("Sebaran lokasi fasilitas & intensitas indikator TB")
 
 st.divider()
 
