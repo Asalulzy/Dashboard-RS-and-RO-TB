@@ -257,7 +257,7 @@ if fdf.empty:
 # HEADER
 # ============================================================
 
-st.title("Peta Sebaran TB RO Fasilitas Kesehatan")
+st.title("Peta Sebaran Tuberculosis di Fasilitas Kesehatan")
 st.caption("Sebaran lokasi fasilitas & intensitas indikator TB")
 
 st.divider()
